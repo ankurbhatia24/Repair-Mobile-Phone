@@ -24,6 +24,9 @@ Till the time I can make my parents ready for a new phone. I found a little bit 
 13. **Board Repair and Training Courses** - [iPadRehab  - Mobile Devices Repair Training](https://www.ipadrehab.com/index.cfm?Page=Practical-Board-Repair-School)
 14. **Recover data Samsung Galaxy directly from phone memory** - [https://www.youtube.com/watch?v=nXDUhhyY2rE](https://www.youtube.com/watch?v=nXDUhhyY2rE) <br> <br>
 
+**EMMC Chip Pinout** <br> <br>
+![emmcpinout](emmcpinout.png) <br> <br>
+
 
 **EMMC Chip Readers**:<br>
 1. https://www.aliexpress.com/item/32818557876.html?spm=a2g0o.productlist.0.0.63a24fb2F5m84e&algo_pvid=8329e97f-56ac-4697-926a-6eba480620e9&algo_expid=8329e97f-56ac-4697-926a-6eba480620e9-6&btsid=0ab6d67915925937483167006e0b7a&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
