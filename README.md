@@ -30,9 +30,10 @@ Till the time I can make my parents ready for a new phone. I found a little bit 
 
 **EMMC Chip connectors and Readers**: <br> <br>
 ![sd-emmc-plus_500A](sd-emmc-plus_500A.jpg) <br>
-Link to SSD EMMC Plus Adaptor - [https://multi-com.eu/,details,id_pr,21681,key,sd-emmc-plus-adapter-model-se-p1,smenu,gsm.html](https://multi-com.eu/,details,id_pr,21681,key,sd-emmc-plus-adapter-model-se-p1,smenu,gsm.html)
-![moorc_v3_600](moorc_v3_600.jpg) <br>
-Link to E-Mate Pro eMMC Tool MoorC v3 - [https://multi-com.eu/,details,id_pr,21886,key,e-mate-pro-emmc-tool-moorc-v3,smenu,gsm.html](https://multi-com.eu/,details,id_pr,21886,key,e-mate-pro-emmc-tool-moorc-v3,smenu,gsm.html)
+Link to SSD EMMC Plus Adaptor - [sd-emmc-plus-adapter](https://multi-com.eu/,details,id_pr,21681,key,sd-emmc-plus-adapter-model-se-p1,smenu,gsm.html)
+![moorc_v3_600](moorc_v3_600.jpg) <br> 
+
+Link to E-Mate Pro eMMC Tool MoorC v3 - [e-mate-pro-emmc-tool-moorc-v3](https://multi-com.eu/,details,id_pr,21886,key,e-mate-pro-emmc-tool-moorc-v3,smenu,gsm.html) <br>
 
 
 
