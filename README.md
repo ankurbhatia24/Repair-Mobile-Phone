@@ -11,21 +11,29 @@ Till the time I can make my parents ready for a new phone. I found a little bit 
 **So these are few sources where I will try to look upon:** <br>
 1. **J7Pro Teardown** - [https://www.youtube.com/watch?v=uIONMLkpyuw](https://www.youtube.com/watch?v=uIONMLkpyuw)
 2. Checking Shortcircuit in J7 Pro - [https://www.youtube.com/watch?v=qmQ4edbEH0U](https://www.youtube.com/watch?v=qmQ4edbEH0U)
-3. Repair of dead phone - [https://www.youtube.com/watch?v=J1l7mLKqkNk](https://www.youtube.com/watch?v=J1l7mLKqkNk)
-4. Maybe this is repair of Power Management IC - [https://www.youtube.com/watch?v=6xWLDzQti9A](https://www.youtube.com/watch?v=6xWLDzQti9A)
-5. Item for Cleaning PCB in 2nd comment - [https://www.youtube.com/watch?v=kbQaTqwh26A](https://www.youtube.com/watch?v=kbQaTqwh26A)
-6. j7 pro model emmc pinout - [https://drive.google.com/file/d/10WVGF99M5dkRziGaCcKC3fqkcgW72xUL/view](https://drive.google.com/file/d/10WVGF99M5dkRziGaCcKC3fqkcgW72xUL/view)
-7. Tool for boot repair emmc - [https://www.youtube.com/watch?v=CR4_En4A1FY](https://www.youtube.com/watch?v=CR4_En4A1FY)
-8. mobile engineer (a general channel for repair videos) - [https://www.youtube.com/watch?v=yoPrpVw8mE4](https://www.youtube.com/watch?v=yoPrpVw8mE4)
-9. What is EMMC chip? - eMMC is intended for use in portable devices as main storage meaning that an eMMC chip is neither removable nor swappable. Think of eMMC as an MMC card soldered to the motherboard of a smartphone
-10. **Removing and Reading emmc chip** - [https://www.youtube.com/watch?v=peNdpZ3NUsE](https://www.youtube.com/watch?v=peNdpZ3NUsE)
-11. Udemy course on mobile repair - [course url](https://www.udemy.com/course/cell-phone-repair-samsung-captivate-infuse-skyrocket/?gclid=CjwKCAjwxLH3BRApEiwAqX9arQv8MsHe8kl0-42wyrN-0iTtpaO4wUqHVH6EyFsCDDkm-kL7M7gdzBoC9koQAvD_BwE&matchtype=e&utm_campaign=LongTail_la.EN_cc.INDIA&utm_content=deal4584&utm_medium=udemyads&utm_source=adwords&utm_term=_._ag_80573525473_._ad_387397585801_._kw_cell+phone+repair+class_._de_c_._dm__._pl__._ti_kwd-824631651298_._li_1007823_._pd__._)
-12. emmc connector using card reader - [https://320volt.com/en/32-gb-emmc-bellege-sd-kart-baglantisi/](https://320volt.com/en/32-gb-emmc-bellege-sd-kart-baglantisi/)
-13. **Board Repair and Training Courses** - [iPadRehab  - Mobile Devices Repair Training](https://www.ipadrehab.com/index.cfm?Page=Practical-Board-Repair-School)
-14. **Recover data Samsung Galaxy directly from phone memory** - [https://www.youtube.com/watch?v=nXDUhhyY2rE](https://www.youtube.com/watch?v=nXDUhhyY2rE) <br> <br>
+3. **Data Recovery From a Damaged Smart Phone** - [https://dangerouspayload.com/2018/10/24/emmc-data-recovery-from-damaged-smartphone/](https://dangerouspayload.com/2018/10/24/emmc-data-recovery-from-damaged-smartphone/)
+4. Repair of dead phone - [https://www.youtube.com/watch?v=J1l7mLKqkNk](https://www.youtube.com/watch?v=J1l7mLKqkNk)
+5. Maybe this is repair of Power Management IC - [https://www.youtube.com/watch?v=6xWLDzQti9A](https://www.youtube.com/watch?v=6xWLDzQti9A)
+6. Item for Cleaning PCB in 2nd comment - [https://www.youtube.com/watch?v=kbQaTqwh26A](https://www.youtube.com/watch?v=kbQaTqwh26A)
+7. j7 pro model emmc pinout - [https://drive.google.com/file/d/10WVGF99M5dkRziGaCcKC3fqkcgW72xUL/view](https://drive.google.com/file/d/10WVGF99M5dkRziGaCcKC3fqkcgW72xUL/view)
+8. Tool for boot repair emmc - [https://www.youtube.com/watch?v=CR4_En4A1FY](https://www.youtube.com/watch?v=CR4_En4A1FY)
+9. mobile engineer (a general channel for repair videos) - [https://www.youtube.com/watch?v=yoPrpVw8mE4](https://www.youtube.com/watch?v=yoPrpVw8mE4)
+10. What is EMMC chip? - eMMC is intended for use in portable devices as main storage meaning that an eMMC chip is neither removable nor swappable. Think of eMMC as an MMC card soldered to the motherboard of a smartphone
+11. **Removing and Reading emmc chip** - [https://www.youtube.com/watch?v=peNdpZ3NUsE](https://www.youtube.com/watch?v=peNdpZ3NUsE)
+12. Udemy course on mobile repair - [course url](https://www.udemy.com/course/cell-phone-repair-samsung-captivate-infuse-skyrocket/?gclid=CjwKCAjwxLH3BRApEiwAqX9arQv8MsHe8kl0-42wyrN-0iTtpaO4wUqHVH6EyFsCDDkm-kL7M7gdzBoC9koQAvD_BwE&matchtype=e&utm_campaign=LongTail_la.EN_cc.INDIA&utm_content=deal4584&utm_medium=udemyads&utm_source=adwords&utm_term=_._ag_80573525473_._ad_387397585801_._kw_cell+phone+repair+class_._de_c_._dm__._pl__._ti_kwd-824631651298_._li_1007823_._pd__._)
+13. emmc connector using card reader - [https://320volt.com/en/32-gb-emmc-bellege-sd-kart-baglantisi/](https://320volt.com/en/32-gb-emmc-bellege-sd-kart-baglantisi/)
+14. **Board Repair and Training Courses** - [iPadRehab  - Mobile Devices Repair Training](https://www.ipadrehab.com/index.cfm?Page=Practical-Board-Repair-School)
+15. **Recover data Samsung Galaxy directly from phone memory** - [https://www.youtube.com/watch?v=nXDUhhyY2rE](https://www.youtube.com/watch?v=nXDUhhyY2rE) <br> <br>
 
-**EMMC Chip Pinout** <br> <br>
+**EMMC Chip Pinout**: <br> <br>
 ![emmcpinout](emmcpinout.png) <br> <br>
+
+**EMMC Chip connectors and Readers**: <br> <br>
+![sd-emmc-plus_500A](sd-emmc-plus_500A.jpg) <br>
+Link to SSD EMMC Plus Adaptor - [https://multi-com.eu/,details,id_pr,21681,key,sd-emmc-plus-adapter-model-se-p1,smenu,gsm.html](https://multi-com.eu/,details,id_pr,21681,key,sd-emmc-plus-adapter-model-se-p1,smenu,gsm.html)
+![moorc_v3_600](moorc_v3_600.jpg) <br>
+Link to E-Mate Pro eMMC Tool MoorC v3 - [https://multi-com.eu/,details,id_pr,21886,key,e-mate-pro-emmc-tool-moorc-v3,smenu,gsm.html](https://multi-com.eu/,details,id_pr,21886,key,e-mate-pro-emmc-tool-moorc-v3,smenu,gsm.html)
+
 
 
 **EMMC Chip Readers**:<br>
